@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "canvas app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakugod/canvas"
+  },
+  "author": "bakugod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+  }
+}
