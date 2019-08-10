@@ -1,9 +1,11 @@
 # canvas
+
+To start this project you need write this in cmd
 ```
-cd ctx
+cd ctx && npm install
 
 node dev.js
 ```
 ***
-Follow localhost:8080
+Come to localhost:8080
 
