@@ -1,6 +1,6 @@
 # canvas
 
-To start this project you need write this in cmd
+To start that project you need write this in cmd
 ```
 cd ctx && npm install
 
